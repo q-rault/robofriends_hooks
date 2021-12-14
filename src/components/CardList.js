@@ -2,6 +2,11 @@
 import Card from './Card';
 
 const CardList =({robotsCL}) => {
+	if (false) {
+		throw new Error('Noooooooo');
+	}
+
+
 	const cardsArray= robotsCL.map((user,i) => {
 		return (
 			<Card

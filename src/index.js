@@ -1,12 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import App from './containers/App'
 import reportWebVitals from './reportWebVitals';
+import 'tachyons';
+// import {robots} from './robots'; LE NOM DE LA VARIABLE DOIT ETRE UTILISE TEL QUE DEFINI DANS LE FICHIER JSX OU RENOMME AVEC  //AS//
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+      <App />
   </React.StrictMode>,
   document.getElementById('root')
 );

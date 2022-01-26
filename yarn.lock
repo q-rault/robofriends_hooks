@@ -3710,7 +3710,12 @@
   "resolved" "https://registry.npmjs.org/escape-html/-/escape-html-1.0.3.tgz"
   "version" "1.0.3"
 
-"escape-string-regexp@^1.0.2", "escape-string-regexp@^1.0.5":
+"escape-string-regexp@^1.0.2":
+  "integrity" "sha1-G2HAViGQqN/2rjuyzwIAyhMLhtQ="
+  "resolved" "https://registry.npmjs.org/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz"
+  "version" "1.0.5"
+
+"escape-string-regexp@^1.0.5":
   "integrity" "sha1-G2HAViGQqN/2rjuyzwIAyhMLhtQ="
   "resolved" "https://registry.npmjs.org/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz"
   "version" "1.0.5"
